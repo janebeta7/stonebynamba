@@ -1,10 +1,10 @@
 # stonebynamba
 Stone está creada por NAMBA usando Sonic Pi.
 MAS INFO EN 
+https://vimeo.com/315268036"
 https://blog.albagcorral.com/2019/02/04/stone-by-namba/
 
-
-[vc_row][vc_column][vc_video link="https://vimeo.com/315268036"][vc_column_text]Stone está creada por NAMBA usando <a href="https://sonic-pi.net/">Sonic Pi</a>.
+Stone está creada por NAMBA usando <a href="https://sonic-pi.net/">Sonic Pi</a>.
 Visuales hechas con <a href="https://processing.org/">processing</a> y shaders. Inspirado en <a href="https://www.shadertoy.com/view/ldSSzV">https://www.shadertoy.com/view/ldSSzV</a> del Autor <a href="https://www.shadertoy.com/user/TDM">https://www.shadertoy.com/user/TDM </a>
 Este stketch usa la librería maravillosa <a href="https://diwi.github.io/PixelFlow/">PixelFlow</a> para que sea mas fácil migrar los shaders de ShaderToy a Processing. Para poder añadir mas parámetros a los shaders, he usado el java puro añadido al sketch, asi que tiene un poco de modificación.
 Para los controles de Midi usa la libreria PROMIDI y para los controles de pantalla Usa la librería <a href="https://github.com/sojamo/controlp5">ControlP5</a>
@@ -21,5 +21,4 @@ La parte sonora viene de una actuación que hice en Agosto invitada al Apolo 3 p
 Aquí la sesión entera (audio) de este dia. El tema usado es el último :)
 <iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/518054454&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%" height="300" frameborder="no" scrolling="no"></iframe>
 
-Gracias a Clara Brea por poner mas decente el sonido.[/vc_column_text][/vc_column][/vc_row][vc_row][/vc_row][vc_row][vc_column][vc_images_carousel images="4393,4394,4395,4396,4397,4398" img_size="full"][/vc_column][/vc_row]
-
+Gracias a Clara Brea por poner mas decente el sonido.
