@@ -1,6 +1,10 @@
 # stonebynamba
 Stone está creada por NAMBA usando Sonic Pi.
+MAS INFO EN 
+https://blog.albagcorral.com/2019/02/04/stone-by-namba/
+
 Visuales hechas con processing y shaders. Inspirado en https://www.shadertoy.com/view/ldSSzV del Autor https://www.shadertoy.com/user/TDM
+
 Este stketch usa la librería maravillosa PixelFlow para que sea mas fácil migrar los shaders de ShaderToy a Processing. Para poder añadir mas parámetros a los shaders, he usado el java puro añadido al sketch, asi que tiene un poco de modificación.
 Para los controles de Midi usa la libreria PROMIDI y para los controles de pantalla Usa la librería ControlP5
 
