@@ -19,6 +19,6 @@ Este video es un remix de una pieza del set que preparé para el Mira Festival 2
 
 La parte sonora viene de una actuación que hice en Agosto invitada al Apolo 3 por <a href="http://www.maticsbarcelona.net" rel="noopener" target="_blank">maticsbarcelona.net</a> en el <a href="http://maticsbarcelona.net/activitats/summer-fun-lab/">Summer Fun Lab 2018 </a>
 Aquí la sesión entera (audio) de este dia. El tema usado es el último :)
-<iframe src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/518054454&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%" height="300" frameborder="no" scrolling="no"></iframe>
+https://soundcloud.com/nambabcn/namba-1
 
 Gracias a Clara Brea por poner mas decente el sonido.
